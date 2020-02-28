@@ -6,6 +6,6 @@ my test program is
 ```
 10 cls
 20 do something
-30 check a
+30 check and exit
 40 goto 25
 ```
